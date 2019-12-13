@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Random Name Picker
 
-You can use the [editor on GitHub](https://github.com/rajasukar/santa/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![LICENSE](https://img.shields.io/github/license/heiswayi/random-name-picker)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is a simple HTML tool written with JavaScript to randomly pick a name from a list. The name that has been picked is removable from the list. This is useful for indoor event/party.
 
-### Markdown
+[**Preview**](http://heiswayi.github.io/random-name-picker)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Screenshots
 
-```markdown
-Syntax highlighted code block
+![screenshot1](/screenshot/1.png "Intro")
 
-# Header 1
-## Header 2
-### Header 3
+![screenshot2](/screenshot/2.png "Name List")
 
-- Bulleted
-- List
+![screenshot3](/screenshot/3.png "Save & Update")
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rajasukar/santa/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![screenshot4](/screenshot/4.png "Run")
